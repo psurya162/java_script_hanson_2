@@ -1,0 +1,44 @@
+
+body{
+    background-color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2{
+    text-align: center;
+}
+.arr{
+    text-align: center;
+}
+#Nonee{
+    display: none;
+}
+#none2{
+    display: none;
+}
+#none3{
+    display: none;
+}
+#none4{
+    display: none;
+}
+#none5{
+    display: none;
+}
+#none6{
+    display: none;
+}
+#none7{
+    display: none;
+}
+#none8{
+    display: none;
+}
+#questions{
+    background-color: aqua;
+    width: 600px;
+    text-align: center;
+}
+h2{
+    font-weight: 900;
+    color: brown;
+}
